@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Madhesh P
 
-### 🚀 Enterprise Full Stack Developer | SAP Fiori Developer | .NET Developer | AI & Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Enterprise+Full+Stack+Developer;SAP+Fiori+%7C+SAP+BTP+Developer;ASP.NET+Core+%7C+C%23+Developer;MERN+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Enterprise+Applications;Mentoring+Future+Developers;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="./banner.png" alt="Madhesh Banner" width="100%" />
+</p>
 
 <p align="center">
 Building scalable enterprise applications, mentoring future developers, and continuously exploring modern technologies.
