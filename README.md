@@ -67,14 +67,6 @@ Building scalable enterprise applications using **SAP**, **.NET**, **MERN**, and
 
 # 🚀 Featured Projects
 
-## 🤖 Skynet AI Presentation Generator
-
-AI-powered PowerPoint Generator built using React, FastAPI, MongoDB, Python, Groq & NVIDIA NIM.
-
-🔗 **Repository:** *(Add Link)*
-
----
-
 ## 🌐 Enterprise Applications
 
 Scalable business applications built with:
