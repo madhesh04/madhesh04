@@ -138,21 +138,21 @@ IoT + Machine Learning solution using ESP32-CAM, TensorFlow and Google Cloud.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhesh04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhesh04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhesh04&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh04&layout=compact&theme=github_dark&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhesh04&theme=tokyo-night"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=madhesh04&theme=github-dark-blue&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhesh04&theme=github-dark&hide_border=true" />
 
 </p>
 
