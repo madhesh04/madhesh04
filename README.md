@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Madhesh Banner" width="100%"/>
+<img src="./banner.png" alt="Madhesh Banner" width="100%"/>
 
 # 👋 Hi, I'm Madhesh P
 
