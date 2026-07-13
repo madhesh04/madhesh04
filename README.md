@@ -1,14 +1,14 @@
 <div align="center">
 
-<p align="center">
-  <img src="./banner.png" alt="Madhesh Banner" width="100%" />
-</p>
+<img src="./assets/banner.png" alt="Madhesh Banner" width="100%"/>
 
-<p align="center">
-Building scalable enterprise applications, mentoring future developers, and continuously exploring modern technologies.
-</p>
+# 👋 Hi, I'm Madhesh P
 
-<img src="https://komarev.com/ghpvc/?username=madhesh04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### Enterprise Full Stack Developer • SAP Fiori Developer • .NET Developer • AI & Cloud Enthusiast
+
+Building scalable enterprise applications using **SAP**, **.NET**, **MERN**, and **Cloud Technologies**, while mentoring future developers through hands-on technical training.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=madhesh04&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/madhesh04)
 
 </div>
 
@@ -16,137 +16,52 @@ Building scalable enterprise applications, mentoring future developers, and cont
 
 # 🚀 About Me
 
-I'm a passionate **Enterprise Full Stack Developer** with experience in building scalable enterprise applications using modern technologies.
-
-Currently working as a **Technical Teaching Assistant**, where I mentor students, conduct hands-on technical sessions, review projects, and help aspiring developers become industry-ready.
-
-I enjoy solving real-world business problems through technology, whether it's developing enterprise software, SAP applications, AI-powered solutions, or cloud-native systems.
-
----
-
-## 💼 Professional Summary
-
-- 💻 Enterprise Full Stack Developer
+- 💼 Enterprise Full Stack Developer
 - 👨‍🏫 Technical Teaching Assistant & Corporate Trainer
-- 🌐 MERN Stack Developer
-- ⚙️ ASP.NET Core & C# Developer
+- 🌐 SAP Fiori & SAP BTP Developer
+- ⚙️ ASP.NET Core / C# Developer
+- ⚛️ MERN Stack Developer
 - ☁️ Microsoft Azure Enthusiast
-- 🌟 SAP Fiori & SAP BTP Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🚀 Passionate about Enterprise Software Development
-- 📚 Lifelong Learner
+- 🤖 AI & Automation Explorer
+- 📚 Passionate about building enterprise software that solves real business problems
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,javascript,typescript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,javascript,typescript,html,css,mysql"/>
 </p>
 
----
-
-## 🎨 Frontend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
 </p>
 
----
-
-## ⚙️ Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi"/>
 </p>
 
-**Backend Technologies**
-
-- ASP.NET Core
-- .NET 8
-- REST APIs
-- FastAPI
-- Express.js
-- Node.js
-- Entity Framework Core
-
----
-
-## 🗄️ Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/>
 </p>
 
-- SQL Server
-- MongoDB Atlas
-- MySQL
-- SQLite
-
----
-
-## ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,vercel"/>
 </p>
 
-- Microsoft Azure
-- Docker
-- GitHub Actions
-- Render
-- Vercel
+### SAP
 
----
-
-## 🌟 SAP Technologies
-
-- SAP Fiori
-- SAP UI5
-- SAP Business Technology Platform (BTP)
-- SAP CAP
-- SAP Business Application Studio
-- OData V4
-- SAP Launchpad
-- SAP IAS
-- XSUAA
-- ABAP (Learning)
-
----
-
-## 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,git,github" />
-</p>
-
----
-
-# 💼 What I Build
-
-✔ Enterprise Web Applications
-
-✔ Enterprise Full Stack Solutions
-
-✔ SAP Fiori Applications
-
-✔ ASP.NET Core Applications
-
-✔ MERN Stack Applications
-
-✔ REST APIs
-
-✔ AI Powered Applications
-
-✔ Cloud Native Applications
-
-✔ Automation Solutions
-
-✔ Business Dashboards
-
-✔ Microservices
+`SAP Fiori` • `SAP UI5` • `SAP CAP` • `SAP BTP` • `Business Application Studio` • `OData V4`
 
 ---
 
@@ -154,21 +69,15 @@ I enjoy solving real-world business problems through technology, whether it's de
 
 ## 🤖 Skynet AI Presentation Generator
 
-AI-powered PowerPoint Generator built using
+AI-powered PowerPoint Generator built using React, FastAPI, MongoDB, Python, Groq & NVIDIA NIM.
 
-- React
-- TypeScript
-- FastAPI
-- MongoDB
-- Python
-- Groq LLM
-- NVIDIA NIM
+🔗 **Repository:** *(Add Link)*
 
 ---
 
 ## 🌐 Enterprise Applications
 
-Building scalable enterprise applications using
+Scalable business applications built with:
 
 - ASP.NET Core
 - C#
@@ -180,7 +89,7 @@ Building scalable enterprise applications using
 
 ## 🌟 SAP Enterprise Solutions
 
-Enterprise applications built using
+Enterprise SAP applications using:
 
 - SAP UI5
 - SAP Fiori
@@ -190,109 +99,64 @@ Enterprise applications built using
 
 ---
 
-## ⚛️ MERN Stack Projects
+## ⚛️ MERN Stack Applications
 
-Modern web applications using
-
-- MongoDB
-- Express.js
-- React
-- Node.js
+Modern web applications using MongoDB, Express.js, React and Node.js.
 
 ---
 
-## 🌿 Tomato Disease Detection using IoT & AI
+## 🌿 Tomato Disease Detection
 
-Machine Learning + IoT based smart agriculture solution
-
-- TensorFlow
-- Python
-- ESP32-CAM
-- NodeMCU
-- Google Cloud
+IoT + Machine Learning solution using ESP32-CAM, TensorFlow and Google Cloud.
 
 ---
 
-## 🎬 Movies MCP Server
+# 👨‍🏫 Professional Experience
 
-Cloudflare Worker based MCP Server
+### Technical Teaching Assistant
 
-- MCP
-- Cloudflare Workers
-- JavaScript
+✔ Conduct Technical Training Sessions
 
----
+✔ Mentor Students
 
-# 👨‍🏫 Experience
+✔ Review Projects
 
-## Technical Teaching Assistant
+✔ Conduct Code Reviews
 
-### Responsibilities
+✔ Help Students Become Industry Ready
 
-- Conduct Technical Training Sessions
-- Mentor Students
-- Review Coding Assignments
-- Guide Full Stack Projects
-- Conduct Code Reviews
-- Help Students Prepare for Industry
-- Deliver Hands-on Workshops
-- Explain Enterprise Development Concepts
+✔ Deliver Hands-on Workshops
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Current Focus
 
 - SAP BTP
 - SAP CAP
-- Advanced SAP Fiori
 - Microsoft Azure
-- Azure DevOps
-- Microservices
+- ASP.NET Core
 - AI Agents
-- Cloud Architecture
-- Kubernetes
+- Cloud Native Applications
 - System Design
+- Microservices
 
 ---
 
-# 🎯 Areas of Interest
-
-- Enterprise Software Development
-- Full Stack Development
-- SAP Technologies
-- Cloud Computing
-- Microsoft Azure
-- Artificial Intelligence
-- Machine Learning
-- Enterprise Architecture
-- DevOps
-- Software Engineering
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=madhesh04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhesh04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhesh04&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
 
@@ -302,37 +166,23 @@ Cloudflare Worker based MCP Server
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
+🏅 Technical Teaching Assistant
 
-<img src="https://github-profile-trophy.vercel.app/?username=madhesh04&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+🏅 Enterprise Application Developer
 
-</p>
+🏅 SAP Fiori Developer
 
----
+🏅 Best Outgoing Project Award
 
-# 🏅 Achievements
+🏅 Paper Presentation Winner
 
-🏆 Technical Teaching Assistant
-
-🥇 Best Outgoing Project Award
-
-🥇 Paper Presentation Winner
-
-🏅 Dean's Recognition
-
-🚀 Built Enterprise Applications
-
-🌟 Developed SAP Solutions
-
-🤖 Built AI Powered Applications
-
-🌿 IoT + Machine Learning Projects
+🏅 AI & IoT Project Developer
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <p align="left">
 
@@ -354,14 +204,10 @@ Cloudflare Worker based MCP Server
 
 <div align="center">
 
-## 💡 Philosophy
+### 💭 Philosophy
 
-> **"Build solutions that create impact. Learn continuously. Share knowledge. Grow together."**
+> **"Code. Build. Teach. Inspire. Repeat."**
 
-### ⭐ Thanks for visiting my GitHub Profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-**Happy Coding! 🚀**
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
 </div>
