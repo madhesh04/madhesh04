@@ -2,145 +2,289 @@
 
 # 👋 Hi, I'm Madhesh P
 
-### Full Stack Developer • SAP Fiori Developer • AI & Cloud Enthusiast
+### 🚀 Enterprise Full Stack Developer | SAP Fiori Developer | .NET Developer | AI & Cloud Enthusiast
 
-*"Building scalable applications, enterprise SAP solutions, and AI-powered products."*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Enterprise+Full+Stack+Developer;SAP+Fiori+%7C+SAP+BTP+Developer;ASP.NET+Core+%7C+C%23+Developer;MERN+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Enterprise+Applications;Mentoring+Future+Developers;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SAP+Fiori+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Products+That+Matter;Always+Learning+Something+New" alt="Typing SVG" />
+<p align="center">
+Building scalable enterprise applications, mentoring future developers, and continuously exploring modern technologies.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=madhesh04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building modern web applications
-- 🌱 Currently learning **SAP BTP, CAP, SAP Fiori, AI Agents & Cloud Technologies**
-- 🧠 Interested in **Artificial Intelligence, Enterprise Applications, Automation & System Design**
-- ⚡ Love solving real-world problems using technology
-- 🎯 Goal: Become a Software Engineer building scalable enterprise applications
+I'm a passionate **Enterprise Full Stack Developer** with experience in building scalable enterprise applications using modern technologies.
+
+Currently working as a **Technical Teaching Assistant**, where I mentor students, conduct hands-on technical sessions, review projects, and help aspiring developers become industry-ready.
+
+I enjoy solving real-world business problems through technology, whether it's developing enterprise software, SAP applications, AI-powered solutions, or cloud-native systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Summary
 
-### 💻 Programming Languages
+- 💻 Enterprise Full Stack Developer
+- 👨‍🏫 Technical Teaching Assistant & Corporate Trainer
+- 🌐 MERN Stack Developer
+- ⚙️ ASP.NET Core & C# Developer
+- ☁️ Microsoft Azure Enthusiast
+- 🌟 SAP Fiori & SAP BTP Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🚀 Passionate about Enterprise Software Development
+- 📚 Lifelong Learner
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,javascript,typescript,html,css,mysql" />
 </p>
 
-### 🌐 Frontend
+---
+
+## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css,javascript,typescript" />
 </p>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi" />
 </p>
 
-### 🗄️ Database
+**Backend Technologies**
+
+- ASP.NET Core
+- .NET 8
+- REST APIs
+- FastAPI
+- Express.js
+- Node.js
+- Entity Framework Core
+
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
 </p>
 
-### ☁️ Cloud & DevOps
+- SQL Server
+- MongoDB Atlas
+- MySQL
+- SQLite
+
+---
+
+## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,vercel" />
 </p>
 
-### 🛠️ Tools
+- Microsoft Azure
+- Docker
+- GitHub Actions
+- Render
+- Vercel
+
+---
+
+## 🌟 SAP Technologies
+
+- SAP Fiori
+- SAP UI5
+- SAP Business Technology Platform (BTP)
+- SAP CAP
+- SAP Business Application Studio
+- OData V4
+- SAP Launchpad
+- SAP IAS
+- XSUAA
+- ABAP (Learning)
+
+---
+
+## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,git,github" />
 </p>
 
 ---
 
-# 🌟 SAP Skills
+# 💼 What I Build
 
-- SAP Fiori
-- SAP UI5
-- SAP BTP
-- SAP CAP
-- SAP Business Application Studio
-- OData
-- ABAP (Learning)
-- SAP Launchpad
-- SAP IAS
-- XSUAA
+✔ Enterprise Web Applications
+
+✔ Enterprise Full Stack Solutions
+
+✔ SAP Fiori Applications
+
+✔ ASP.NET Core Applications
+
+✔ MERN Stack Applications
+
+✔ REST APIs
+
+✔ AI Powered Applications
+
+✔ Cloud Native Applications
+
+✔ Automation Solutions
+
+✔ Business Dashboards
+
+✔ Microservices
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Skynet
+## 🤖 Skynet AI Presentation Generator
 
-AI-powered Presentation Generator
-
-**Tech Stack**
+AI-powered PowerPoint Generator built using
 
 - React
 - TypeScript
 - FastAPI
 - MongoDB
 - Python
-- Groq API
+- Groq LLM
 - NVIDIA NIM
 
 ---
 
-### 🌿 Tomato Disease Detection using IoT & Machine Learning
+## 🌐 Enterprise Applications
 
-A smart agriculture solution that detects tomato diseases using image processing and IoT sensors.
+Building scalable enterprise applications using
 
-**Tech Used**
+- ASP.NET Core
+- C#
+- SQL Server
+- Azure
+- REST APIs
 
-- ESP32-CAM
-- NodeMCU
+---
+
+## 🌟 SAP Enterprise Solutions
+
+Enterprise applications built using
+
+- SAP UI5
+- SAP Fiori
+- SAP CAP
+- SAP BTP
+- OData V4
+
+---
+
+## ⚛️ MERN Stack Projects
+
+Modern web applications using
+
+- MongoDB
+- Express.js
+- React
+- Node.js
+
+---
+
+## 🌿 Tomato Disease Detection using IoT & AI
+
+Machine Learning + IoT based smart agriculture solution
+
 - TensorFlow
 - Python
+- ESP32-CAM
+- NodeMCU
 - Google Cloud
 
 ---
 
-### 🎬 Movies MCP Server
+## 🎬 Movies MCP Server
 
-Cloudflare Worker-based MCP Server for discovering Tamil movies.
+Cloudflare Worker based MCP Server
 
-**Tech Used**
-
-- Cloudflare Workers
 - MCP
+- Cloudflare Workers
 - JavaScript
 
 ---
 
-### 💼 SAP Fiori Learning Projects
+# 👨‍🏫 Experience
 
-Enterprise applications built while learning SAP technologies.
+## Technical Teaching Assistant
 
-- SAP UI5
-- SAP CAP
-- OData V4
-- Business Application Studio
+### Responsibilities
+
+- Conduct Technical Training Sessions
+- Mentor Students
+- Review Coding Assignments
+- Guide Full Stack Projects
+- Conduct Code Reviews
+- Help Students Prepare for Industry
+- Deliver Hands-on Workshops
+- Explain Enterprise Development Concepts
 
 ---
 
-# 📈 GitHub Stats
+# 🌱 Currently Learning
+
+- SAP BTP
+- SAP CAP
+- Advanced SAP Fiori
+- Microsoft Azure
+- Azure DevOps
+- Microservices
+- AI Agents
+- Cloud Architecture
+- Kubernetes
+- System Design
+
+---
+
+# 🎯 Areas of Interest
+
+- Enterprise Software Development
+- Full Stack Development
+- SAP Technologies
+- Cloud Computing
+- Microsoft Azure
+- Artificial Intelligence
+- Machine Learning
+- Enterprise Architecture
+- DevOps
+- Software Engineering
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhesh04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=madhesh04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -160,9 +304,19 @@ Enterprise applications built while learning SAP technologies.
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
-🏅 Technical Teaching Assistant
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=madhesh04&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🏆 Technical Teaching Assistant
 
 🥇 Best Outgoing Project Award
 
@@ -170,23 +324,17 @@ Enterprise applications built while learning SAP technologies.
 
 🏅 Dean's Recognition
 
-🚀 Built AI, SAP & IoT Projects
+🚀 Built Enterprise Applications
+
+🌟 Developed SAP Solutions
+
+🤖 Built AI Powered Applications
+
+🌿 IoT + Machine Learning Projects
 
 ---
 
-# 🌱 Currently Learning
-
-- SAP CAP
-- SAP BTP
-- SAP Fiori
-- AI Agents
-- Cloud Architecture
-- System Design
-- DevOps
-
----
-
-# 📫 Connect with Me
+# 📫 Connect With Me
 
 <p align="left">
 
@@ -194,11 +342,11 @@ Enterprise applications built while learning SAP technologies.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:YOURMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -208,12 +356,14 @@ Enterprise applications built while learning SAP technologies.
 
 <div align="center">
 
-### 💡 Quote
+## 💡 Philosophy
 
-> **"Code. Learn. Build. Repeat."**
+> **"Build solutions that create impact. Learn continuously. Share knowledge. Grow together."**
 
-<img src="https://komarev.com/ghpvc/?username=madhesh04&label=Profile%20Views&color=0e75b6&style=flat"/>
+### ⭐ Thanks for visiting my GitHub Profile!
 
-⭐ **Thanks for visiting my profile!**
+If you like my work, consider giving a ⭐ to my repositories.
+
+**Happy Coding! 🚀**
 
 </div>
