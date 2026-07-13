@@ -190,11 +190,11 @@ IoT + Machine Learning solution using ESP32-CAM, TensorFlow and Google Cloud.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/maddy04">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:madheshprasath@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
