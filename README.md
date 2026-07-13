@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Madhesh P
-
 <p align="center">
   <img src="./banner.png" alt="Madhesh Banner" width="100%" />
 </p>
